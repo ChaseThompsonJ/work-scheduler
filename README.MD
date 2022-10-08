@@ -4,8 +4,9 @@ Work Scheduler/Daily Planner
 ## Description
 For this challenge we were tasked to create a Daily Planner.
 I was able to complete the styling with Bootstrap and was able to
-put the time in the jumbotron with MomentJS. I plant to resubmit this
-homework in the future for a better grade. I was unable to meet all required criteria.
+put the time in the jumbotron with MomentJS. I went through after some
+help from a class mate and was able to completed this challenge with
+gaining more understanding of JS! 
 
 ## Tasks Assigned
 ```
